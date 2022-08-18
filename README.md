@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Huddle Landing](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections-with-bootstrap-OCsyMbGTA1)
+- Live Site URL: [Huddle Landing](https://mariamokann.github.io/Huddle-landing-page/)
 
 ## My process
 
